@@ -1,4 +1,4 @@
-# PlantExpert 🌱
+# PlantExpert — Sistema experto para tomateras 🌱
 
 ## Descripción
 
